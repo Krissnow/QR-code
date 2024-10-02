@@ -1,0 +1,26 @@
+.qrBlock {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  margin-top: 150px;
+}
+
+.buttonQrCode {
+  margin-top: 50px;
+  width: 220px;
+  height: 50px;
+  background-color: rgb(109, 180, 108);
+  border: none;
+  border-radius: 20px;
+}
+
+.inputQrCode {
+  width: 520px;
+  height: 50px;
+  border-radius: 20px;
+  border: solid 1px rgb(109, 180, 108);
+}
+
+.codeSvg {
+  margin-top: 50px;
+}

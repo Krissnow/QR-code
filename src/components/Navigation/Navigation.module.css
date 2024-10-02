@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+.navigateLink {
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(109, 180, 108);
+}

@@ -1,0 +1,10 @@
+.qrContainer {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  margin-top: 150px;
+}
+
+.scannedText {
+  font-size: 24px;
+}
